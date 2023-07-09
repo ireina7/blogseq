@@ -1,0 +1,2 @@
+# blogseq
+Blog with Logseq
